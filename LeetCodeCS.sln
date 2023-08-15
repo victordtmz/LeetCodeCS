@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeCS", "LeetCodeCS\LeetCodeCS.csproj", "{354C54E9-1D1B-44BB-8DF0-958746C4CF18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F6107B6F-D625-4BF0-8AED-C739273B6B2F}"
+	ProjectSection(SolutionItems) = preProject
+		IsPalindrome.txt = IsPalindrome.txt
+		RomanToInteger.txt = RomanToInteger.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{354C54E9-1D1B-44BB-8DF0-958746C4CF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354C54E9-1D1B-44BB-8DF0-958746C4CF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354C54E9-1D1B-44BB-8DF0-958746C4CF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354C54E9-1D1B-44BB-8DF0-958746C4CF18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7184C62C-4B29-4F47-8B4F-0F00B8FA27BA}
+	EndGlobalSection
+EndGlobal
