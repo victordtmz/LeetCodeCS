@@ -8,8 +8,6 @@ namespace LeetCodeCS;
 
 public class Solution
 {
-
-
     #region RomanToIntRegion
     /// <summary>
     /// Runtime: 56 ms, Memory:48.2
@@ -87,6 +85,11 @@ public class Solution
     }
     #endregion
 
+    /// <summary>
+    /// An integer is a palindrome when it reads the same backwards
+    /// </summary>
+    /// <param name="num"></param>
+    /// <returns></returns>
     public static bool IsPalindrome(int num)
     {
         if (num < 0) return false;
@@ -112,4 +115,6 @@ public class Solution
         newNum /= 10;
         return (num == newNum);
     }
+
+
 }
